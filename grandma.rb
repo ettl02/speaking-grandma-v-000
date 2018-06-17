@@ -5,6 +5,7 @@ def speak_to_grandma (phrase)
   else
     return "HUH?! SPEAK UP, SONNY!"
 end
+end
 
 def speak_to_grandma(love_you)
   if love_you == "I LOVE YOU, GRANDMA"
