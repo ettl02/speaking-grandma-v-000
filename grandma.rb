@@ -4,13 +4,11 @@ def speak_to_grandma (phrase)
     puts "NO, NOT SINCE 1938!"
   else
     puts "HUH?! SPEAK UP, SONNY!"
+  elsif phrase == "I LOVE YOU, GRANDMA"
+    puts "I LOVE YOU TOO PUMPKIN!"
+end
 end
 end 
-
-def speak_to_grandma(love_you)
-  if "I LOVE YOU, GRANDMA"
-  puts "I LOVE YOU TOO PUMPKIN!"
-end
 
 
 
